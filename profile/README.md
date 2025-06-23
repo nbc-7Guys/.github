@@ -54,9 +54,9 @@
 
 ### Back-End
 
-<img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?&logo=Spring boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring JPA-6DB33F?&logo=Spring JPA&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring JPA-6DB33F?&logo=SpringJPA&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?&logo=gradle&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Json web tokens-000000?&logo=Json web tokens&logoColor=white"> <img src="https://img.shields.io/badge/OAUTH2-EC1C24?&logo=Authy&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/jsonwebtokens-000000?&logo=Json web tokens&logoColor=white"> <img src="https://img.shields.io/badge/OAUTH2-EC1C24?&logo=Authy&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/QueryDSL-2599ED?&logo=querydsl&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?&logo=elasticsearch&logoColor=white">
 <br>
