@@ -29,7 +29,6 @@
 | [nebulazone-fe](https://github.com/nbc-7Guys/nebulazone-fe)           | Nebulazone의 프론트엔드(React 등) 구현    |
 | [nebulazone-infra](https://github.com/nbc-7Guys/nebulazone-infra)     | 인프라 및 배포 자동화, DevOps 관련 코드       |
 | [nebulazone-crawler](https://github.com/nbc-7Guys/nebulazone-crawler) | 데이터 수집 및 크롤링 기능 구현               |
-| [.github](https://github.com/nbc-7Guys/.github)                       | 오거나이제이션 프로필 및 공통 설정              |
 
 ---
 
