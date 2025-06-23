@@ -29,7 +29,7 @@
 
 | 레포지터리                                                                 | 설명                               |
 |-----------------------------------------------------------------------|----------------------------------|
-| [nebulazone](https://github.com/nbc-7Guys/nebulazone)                 | 분산 환경에서 데이터 처리와 시각화를 지원하는 메인 플랫폼 |
+| [nebulazone-be](https://github.com/nbc-7Guys/nebulazone)              | 분산 환경에서 데이터 처리와 시각화를 지원하는 메인 플랫폼 |
 | [nebulazone-fe](https://github.com/nbc-7Guys/nebulazone-fe)           | Nebulazone의 프론트엔드(React 등) 구현    |
 | [nebulazone-infra](https://github.com/nbc-7Guys/nebulazone-infra)     | 인프라 및 배포 자동화, DevOps 관련 코드       |
 | [nebulazone-crawler](https://github.com/nbc-7Guys/nebulazone-crawler) | 데이터 수집 및 크롤링 기능 구현               |
