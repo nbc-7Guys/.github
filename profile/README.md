@@ -44,13 +44,6 @@
 
 ---
 
-## 기술 스택
-
-- **Backend:** Spring boot, Java21
-- **Frontend:** React, JavaScript
-- **Database:** MySQL, Elasticsearch, Redis
-- **DevOps:** Docker, GitHub Actions, K8s
-
 ## 🧑🏻‍🔧 기술 스택
 
 ### Front-End
