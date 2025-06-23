@@ -71,7 +71,9 @@
 
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Google Cloud Storage-AECBFA?&logo=googlecloudstorage&logoColor=white"> <img src="https://img.shields.io/badge/Google Cloud-4285F4?&logo=googlecloud&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Github-181717?&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Github Actions-2088FF?&logo=githubactions&logoColor=white" alt="actions"> <img src="https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-181717?&logo=Vercel&logoColor=white" alt="actions">
+<img src="https://img.shields.io/badge/Github-181717?&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Github Actions-2088FF?&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?&logo=vercel&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Argo-EF7B4D?&logo=argo&logoColor=white">
 
 ### Monitoring
 
