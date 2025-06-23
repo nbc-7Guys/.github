@@ -60,7 +60,6 @@
 <br>
 <img src="https://img.shields.io/badge/Vite-646CFF?&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/WebStorm-000000?&logo=webstorm&logoColor=white">
 
-
 ### Back-End
 
 <img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?&logo=Spring boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring JPA-6DB33F?&logo=Spring JPA&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?&logo=gradle&logoColor=white">
