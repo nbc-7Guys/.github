@@ -1,4 +1,10 @@
-# nbc-7Guys Organization
+<p><img src="/images/cover-image.png" height="253" width="380"></p>
+
+# nbc-7Guys
+
+## 📋프로젝트 소개
+
+---
 
 프로젝트 설명
 
