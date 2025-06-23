@@ -1,4 +1,4 @@
-<p><img src="/images/cover-image.png" height="253" width="380"></p>
+<p><img src="/images/cover-image.png" height="500" width=100%></p>
 
 # nbc-7Guys
 
