@@ -14,7 +14,7 @@
 
 ---
 
-## 👪 [7Guys](https://github.com/orgs/Foodlier/teams/the-table) 팀원 소개
+## 👪 [7Guys](https://github.com/orgs/nbc-7Guys/teams/7guys) 팀원 소개
 
 | <img src = https://github.com/SeungHyunLee054.png width="200" height="200"> | <img src = https://github.com/dungbik.png width="200" height="200"> | <img src = https://github.com/nagul2.png width="200" height="200"> | <img src = https://github.com/sukh115.png width="200" height="200"> | <img src = https://github.com/Uguls.png width="200" height="200"> |
 |-----------------------------------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------|
